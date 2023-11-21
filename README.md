@@ -3,7 +3,7 @@
 ## 🔗 Resultado
 
 O resultado do projeto foi um site bonito, informativo e funcional.
-O site pode ser acessado no seguinte endereço: [Projeto Android](https://mariana549.github.io/cordel-moderno/).
+O site pode ser acessado no seguinte endereço: [Cordel moderno](https://mariana549.github.io/cordel-moderno/).
 
 ## 📝 Descrição
 Este é um projeto que eu fiz como parte do curso de HTML5 e CSS3 do professor Gustavo Guanabara, do [Curso em Vídeo](https://www.youtube.com/@CursoemVideo). O objetivo do projeto era criar um site que apresentasse o gênero literário do cordel, que é uma forma de poesia popular e oral típica do Nordeste do Brasil.
